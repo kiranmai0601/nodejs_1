@@ -1,15 +1,14 @@
 {
-  "name": "first_app",
+  "name": "second_app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "requestDemo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2",
-    "cowsay": "^1.5.0"
+    "needle": "^3.1.0"
   }
 }
